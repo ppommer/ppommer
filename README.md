@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Paul 👋
+
+I'm a software engineer at [KI macht Schule](https://ki-macht-schule.de/), a non-profit organization teaching ML basics to high-school students. We provide teachers with [modern teaching software](https://ki-macht-schule.de/plattform) and are the first German company to offer fully German-hosted LLMs for education purposes.
+
+Besides that, I'm researching core machine learning and representation learning for neuroscience at the [Tübingen AI Center](https://tuebingen.ai/).
 
 <!--
 **ppommer/ppommer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
